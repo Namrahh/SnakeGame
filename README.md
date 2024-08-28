@@ -1,0 +1,1 @@
+The Classic Snake Game is a recreation of the iconic snake game that was a staple on Nokia mobile phones. In this game, you control a snake that moves around the screen, eating food to grow longer while avoiding collisions with the walls and itself. 
